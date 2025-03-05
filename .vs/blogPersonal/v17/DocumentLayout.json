@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\controllers\\blogdtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:controllers\\blogdtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\entities\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:entities\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\entities\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:entities\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\migrations\\20250303232430_jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:migrations\\20250303232430_jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\migrations\\20250302153222_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:migrations\\20250302153222_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\blogpersonal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:blogpersonal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250301232930_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250301232930_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\blogpersonal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:blogpersonal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250301232053_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250301232053_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\migrations\\20250302001321_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:migrations\\20250302001321_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\migrations\\20250304003122_jwt2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:migrations\\20250304003122_jwt2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\migrations\\20250304010040_jwt3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:migrations\\20250304010040_jwt3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Service\\BlogService.cs",
+              "RelativeDocumentMoniker": "Service\\BlogService.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Service\\BlogService.cs",
+              "RelativeToolTip": "Service\\BlogService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:04:41.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdministradorController.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\AdministradorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdministradorController.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\AdministradorController.cs",
+              "RelativeToolTip": "Controllers\\AdministradorController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAIwLsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:13:14.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250304010040_Jwt3.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250304010040_Jwt3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250304010040_Jwt3.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250304010040_Jwt3.cs",
+              "RelativeToolTip": "Migrations\\20250304010040_Jwt3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:00:40.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250304003122_jwt2.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250304003122_jwt2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250304003122_jwt2.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250304003122_jwt2.cs",
+              "RelativeToolTip": "Migrations\\20250304003122_jwt2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:31:23.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:43:27.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250303232430_jwt.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250303232430_jwt.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250303232430_jwt.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250303232430_jwt.cs",
+              "RelativeToolTip": "Migrations\\20250303232430_jwt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:24:31.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Entities\\Jwt.cs",
+              "RelativeDocumentMoniker": "Entities\\Jwt.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Entities\\Jwt.cs",
+              "RelativeToolTip": "Entities\\Jwt.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:26:49.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "blogPersonal.csproj",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\blogPersonal.csproj",
+              "RelativeDocumentMoniker": "blogPersonal.csproj",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\blogPersonal.csproj",
+              "RelativeToolTip": "blogPersonal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T18:51:57.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Entities\\Administrador.cs",
+              "RelativeDocumentMoniker": "Entities\\Administrador.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Entities\\Administrador.cs",
+              "RelativeToolTip": "Entities\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:26:53.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250302153222_secondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250302153222_secondMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250302153222_secondMigration.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250302153222_secondMigration.cs",
+              "RelativeToolTip": "Migrations\\20250302153222_secondMigration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:32:22.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:20:12.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogDTOController.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\BlogDTOController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogDTOController.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\BlogDTOController.cs",
+              "RelativeToolTip": "Controllers\\BlogDTOController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:05:39.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogDTO.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\DTOs\\BlogDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\BlogDTO.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\DTOs\\BlogDTO.cs",
+              "RelativeToolTip": "DTOs\\BlogDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:47:12.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250302001321_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250302001321_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250302001321_Initial.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250302001321_Initial.cs",
+              "RelativeToolTip": "Migrations\\20250302001321_Initial.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T00:13:21.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250301232930_second.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250301232930_second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250301232930_second.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250301232930_second.cs",
+              "RelativeToolTip": "Migrations\\20250301232930_second.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:29:30.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T23:23:20.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "blogPersonal.http",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\blogPersonal.http",
+              "RelativeDocumentMoniker": "blogPersonal.http",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\blogPersonal.http",
+              "RelativeToolTip": "blogPersonal.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-01T23:23:16.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250301232053_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250301232053_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250301232053_Inicial.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Migrations\\20250301232053_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20250301232053_Inicial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:20:53.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T22:17:50.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "DbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:56:47.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:53:41.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "Entities\\Blog.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Entities\\Blog.cs",
+              "RelativeToolTip": "Entities\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:47:36.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T19:45:55.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
