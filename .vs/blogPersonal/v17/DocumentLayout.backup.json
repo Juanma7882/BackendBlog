@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\controllers\\blogdtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:controllers\\blogdtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\entities\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:entities\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\entities\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:entities\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\entities\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:entities\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBF10DF4-DA0F-42C4-841C-3CAD96D791A4}|blogPersonal.csproj|c:\\users\\juan\\desktop\\mercado\\blogpersonal\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,26 +114,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "BlogService.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Service\\BlogService.cs",
               "RelativeDocumentMoniker": "Service\\BlogService.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Service\\BlogService.cs",
               "RelativeToolTip": "Service\\BlogService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAMwBAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T19:04:41.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AdministradorController.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\AdministradorController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdministradorController.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\AdministradorController.cs",
               "RelativeToolTip": "Controllers\\AdministradorController.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAADwv6cAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAALAAAAAAAAAAAAAIwLsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T01:13:14.14Z",
               "EditorCaption": ""
@@ -188,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Jwt.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Entities\\Jwt.cs",
               "RelativeDocumentMoniker": "Entities\\Jwt.cs",
@@ -213,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Administrador.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Entities\\Administrador.cs",
               "RelativeDocumentMoniker": "Entities\\Administrador.cs",
@@ -250,26 +250,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "BlogDTOController.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\BlogDTOController.cs",
               "RelativeDocumentMoniker": "Controllers\\BlogDTOController.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\BlogDTOController.cs",
               "RelativeToolTip": "Controllers\\BlogDTOController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T15:05:39.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "BlogDTO.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\DTOs\\BlogDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\BlogDTO.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\DTOs\\BlogDTO.cs",
               "RelativeToolTip": "DTOs\\BlogDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T14:47:12.584Z",
               "EditorCaption": ""
@@ -334,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -347,32 +347,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\DbContext\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DbContext\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\DbContext\\AppDbContext.cs",
               "RelativeToolTip": "DbContext\\AppDbContext.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwA4AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T19:56:47.958Z"
+              "WhenOpened": "2025-03-01T19:56:47.958Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\BlogController.cs",
               "RelativeToolTip": "Controllers\\BlogController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T19:53:41.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Entities\\Blog.cs",
               "RelativeDocumentMoniker": "Entities\\Blog.cs",
@@ -385,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

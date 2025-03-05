@@ -122,8 +122,7 @@
               "RelativeToolTip": "Service\\BlogService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAMwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:04:41.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:04:41.377Z"
             },
             {
               "$type": "Document",
@@ -135,8 +134,7 @@
               "RelativeToolTip": "Controllers\\AdministradorController.cs",
               "ViewState": "AgIAALAAAAAAAAAAAAAIwLsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T01:13:14.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T01:13:14.14Z"
             },
             {
               "$type": "Document",
@@ -196,8 +194,7 @@
               "RelativeToolTip": "Entities\\Jwt.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAkwDsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T21:26:49.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T21:26:49.355Z"
             },
             {
               "$type": "Document",
@@ -221,8 +218,7 @@
               "RelativeToolTip": "Entities\\Administrador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T16:26:53.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T16:26:53.299Z"
             },
             {
               "$type": "Document",
@@ -258,8 +254,7 @@
               "RelativeToolTip": "Controllers\\BlogDTOController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T15:05:39.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T15:05:39.54Z"
             },
             {
               "$type": "Document",
@@ -271,8 +266,7 @@
               "RelativeToolTip": "DTOs\\BlogDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T14:47:12.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T14:47:12.584Z"
             },
             {
               "$type": "Document",
@@ -342,8 +336,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T22:17:50.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T22:17:50.208Z"
             },
             {
               "$type": "Document",
@@ -355,8 +348,7 @@
               "RelativeToolTip": "DbContext\\AppDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T19:56:47.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T19:56:47.958Z"
             },
             {
               "$type": "Document",
@@ -366,7 +358,7 @@
               "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\Mercado\\blogPersonal\\Controllers\\BlogController.cs",
               "RelativeToolTip": "Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T19:53:41.614Z",
               "EditorCaption": ""
@@ -381,8 +373,7 @@
               "RelativeToolTip": "Entities\\Blog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T19:47:36.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T19:47:36.658Z"
             },
             {
               "$type": "Document",
@@ -394,8 +385,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T19:45:55.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T19:45:55.375Z"
             }
           ]
         }
